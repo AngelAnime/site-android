@@ -23,7 +23,11 @@ https://angelanime.github.io/site-android/
 ##  Estrutura do Projeto
 
 site-android/
+│
 ├── index.html ← Página principal, com a história do mascote Android
+│
 ├── estilo/ ← Estilos visuais aplicados ao conteúdo
+│
 ├── imagens/ ← (opcional) Imagens, ícones e outros recursos
+│
 └── fontes/ ← (opcional) Fontes
