@@ -4,15 +4,14 @@ Um site simples em **HTML e CSS**, criado para compartilhar curiosidades do mund
 
 ---
 
-##  Acesso ao Projeto
+## Acesso ao Projeto
 
-O site está hospedado via GitHub Pages e pode ser acessado aqui:
-
-https://angelanime.github.io/site-android/
+O site está hospedado via GitHub Pages e pode ser acessado aqui:  
+[https://angelanime.github.io/site-android/](https://angelanime.github.io/site-android/)
 
 ---
 
-##  Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - HTML5  
 - CSS3  
@@ -20,14 +19,15 @@ https://angelanime.github.io/site-android/
 
 ---
 
-##  Estrutura do Projeto
-
+## Estrutura do Projeto
+```
 site-android/
 │
-├── index.html ← Página principal, com a história do mascote Android
+├── index.html          ← Página principal, com a história do mascote Android
 │
-├── estilo/ ← Estilos visuais aplicados ao conteúdo
+├── estilo/             ← Estilos visuais aplicados ao conteúdo
 │
-├── imagens/ ← (opcional) Imagens, ícones e outros recursos
+├── imagens/            ← (opcional) Imagens, ícones e outros recursos
 │
-└── fontes/ ← (opcional) Fontes
+└── fontes/             ← (opcional) Fontes
+```
