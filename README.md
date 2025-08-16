@@ -23,7 +23,6 @@ O site está hospedado via GitHub Pages e pode ser acessado aqui:
 ```
 site-android/
 │
-├── 
 ├── estilo/             ← Estilos visuais aplicados ao conteúdo
 │
 ├── fontes/             ← (opcional) Fontes
