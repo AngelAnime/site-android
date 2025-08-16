@@ -23,11 +23,12 @@ O site está hospedado via GitHub Pages e pode ser acessado aqui:
 ```
 site-android/
 │
-├── index.html          ← Página principal, com a história do mascote Android
-│
+├── 
 ├── estilo/             ← Estilos visuais aplicados ao conteúdo
+│
+├── fontes/             ← (opcional) Fontes
 │
 ├── imagens/            ← (opcional) Imagens, ícones e outros recursos
 │
-└── fontes/             ← (opcional) Fontes
+└── index.html          ← Página principal, com a história do mascote Android
 ```
